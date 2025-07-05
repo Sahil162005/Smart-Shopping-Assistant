@@ -1,0 +1,35 @@
+# ===== Python Stuff =====
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# ===== Virtual Environment =====
+venv/
+.env
+
+# ===== Jupyter Notebooks =====
+.ipynb_checkpoints/
+
+# ===== VS Code Workspace =====
+.vscode/
+
+# ===== OS Generated Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Build / Packaging =====
+*.egg-info/
+dist/
+build/
+
+# ===== Database (Optional) =====
+*.sqlite3
+*.db
+
+# ===== Node (Optional, if frontend is used) =====
+node_modules/
+
+# ===== Others =====
+*.pkl
+*.h5
